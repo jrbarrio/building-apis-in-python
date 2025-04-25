@@ -10,4 +10,5 @@ pip install pipenv
 pipenv install fastapi
 pipenv install pydantic
 pipenv install requests
+pipenv install urlopen
 ```
