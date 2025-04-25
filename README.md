@@ -9,4 +9,5 @@ echo "building-apis-in-python" > .python-version
 pip install pipenv
 pipenv install fastapi
 pipenv install pydantic
+pipenv install requests
 ```
