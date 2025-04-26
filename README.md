@@ -11,4 +11,6 @@ pipenv install fastapi
 pipenv install pydantic
 pipenv install requests
 pipenv install urlopen
+pipenv install pandas
+pipenv install jupyter
 ```

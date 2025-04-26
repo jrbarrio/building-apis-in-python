@@ -8,6 +8,8 @@ fastapi = "*"
 pydantic = "*"
 requests = "*"
 urlopen = "*"
+pandas = "*"
+jupyter = "*"
 
 [dev-packages]
 
