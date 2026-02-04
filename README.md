@@ -13,4 +13,6 @@ pipenv install requests
 pipenv install urlopen
 pipenv install pandas
 pipenv install jupyter
+pipenv install uvicorn
+pipenv install joblib
 ```

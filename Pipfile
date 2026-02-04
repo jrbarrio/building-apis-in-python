@@ -10,6 +10,8 @@ requests = "*"
 urlopen = "*"
 pandas = "*"
 jupyter = "*"
+uvicorn = "*"
+joblib = "*"
 
 [dev-packages]
 
